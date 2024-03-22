@@ -1,4 +1,4 @@
-# Fixed SQLConnection Error
+# Fixed SQL Connection Error
 
 ![](sqlserver.png)
 
